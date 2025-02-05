@@ -1,6 +1,9 @@
 ## Description
 realistic speech-to-speech transformations using Retrieval-based-Voice-Conversion in pyhon 
 
+## WIP
+- simple training
+
 ## Feature
 - semplified setup
 - easy batch processing
