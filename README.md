@@ -33,7 +33,7 @@ the scripts manage to download all needed models plus a custom spongebob model t
 
 the class initialization will download by default all needed models.
 
-```
+```python
 from RVCAudioConverter import RVCAudioConverter
 
 MODEL_PTH_PATH = "assets/custom_models/spongebob/model.pth"
