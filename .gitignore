@@ -1,0 +1,7 @@
+assets/
+input_folder
+output_folder
+.env
+__pycache__
+tmp
+*.ipynb
